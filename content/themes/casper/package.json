@@ -50,5 +50,10 @@
     },
     "config": {
         "posts_per_page": 25
+    },
+    "dependencies": {
+        "build-css": "^0.2.0",
+        "css-minify": "^1.0.1",
+        "minify": "^3.0.3"
     }
 }
